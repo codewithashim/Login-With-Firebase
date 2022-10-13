@@ -1,0 +1,49 @@
+.loginPage {
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+    justify-content: center;
+}
+
+.loginContainer {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    box-shadow: 0 0 0 10px rgba(0, 0, 0, .15), 0 1px 1px rgba(0, 0, 0, .2);
+}
+
+.signInOpctions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    gap: 1rem;
+}
+
+.signInBtn {
+    border: none;
+    outline: none;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: #3f51b5;
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signInBtn img {
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-right: 0.5rem;
+}

@@ -1,0 +1,11 @@
+.mainNav {
+    background-color: whitesmoke;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    font-weight: 700;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
